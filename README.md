@@ -1,7 +1,6 @@
 # UltraInsight_Analyzing_Paces_Ages_and_Trends_in_Ultramarathon_Finishers
-Data Mining Semester Project
 
-Team Member: Claire Lueking
+### Team Member: Claire Lueking
 
 ## Project Description
 This project aims to answer four questions realted to ultramarathon racing and training. Through data analysis these questions are answered and there are even some additional information gained secondary to the questions answered.
@@ -41,8 +40,9 @@ A third application of the results is that knowing the upper and lower bounds of
 ## [Final Project Paper](./14_UltraInsightAnalyzingPacesAgesandTrendsinUltramarathonFinishers_Part4.pdf)
 
 
-Note:
+## Notes:
 The [PowerPoint PDF](./14_UltraInsightAnalyzingPacesAgesandTrendsinUltramarathonFinishers_Part1.pdf) includes hyperlinks. Those hyperlinks are clickable if the file is downloaded, but are not clickable through Github's pdf viewer.
+
 
 Links to Interactive Visualizations as seen in the Final Project Paper:
 
