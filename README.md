@@ -45,6 +45,6 @@ Note:
 The [PowerPoint PDF](./Group14_UltraInsight_Analyzing_Paces_Ages_and_Trends_in_Ultramarathon_Finishers_Part1.pdf) includes hyperlinks. Those hyperlinks are clickable if the file is downloaded, but are not clickable through Github's pdf viewer.
 
 Links to Interactive Visualizations as seen in the Final Project Paper:
-[Average Pace Per Race Distance](./clueking2.github.io/average_pace_race_distances.html)
-[Average Pace Per Race Distance Top 20%](./clueking2.github.io/average_pace_race_distance_top_20_percent.html)
-[Pace Distribution per Race Distance](./clueking2.github.io/pace_distribution_race_distance.html)
+[Average Pace Per Race Distance](./https://clueking2.github.io/average_pace_race_distances.html)
+[Average Pace Per Race Distance Top 20%](./https://clueking2.github.io/average_pace_race_distance_top_20_percent.html)
+[Pace Distribution per Race Distance](./https://clueking2.github.io/pace_distribution_race_distance.html)
