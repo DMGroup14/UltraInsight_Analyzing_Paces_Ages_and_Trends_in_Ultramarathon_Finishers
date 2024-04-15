@@ -42,7 +42,7 @@ A third application of the results is that knowing the upper and lower bounds of
 
 
 Note:
-The [PowerPoint PDF](./Group14_UltraInsight_Analyzing_Paces_Ages_and_Trends_in_Ultramarathon_Finishers_Part1.pdf) includes hyperlinks. Those hyperlinks are clickable if the file is downloaded, but are not clickable through Github's pdf viewer.
+The [PowerPoint PDF](./14_UltraInsightAnalyzingPacesAgesandTrendsinUltramarathonFinishers_Part1.pdf) includes hyperlinks. Those hyperlinks are clickable if the file is downloaded, but are not clickable through Github's pdf viewer.
 
 Links to Interactive Visualizations as seen in the Final Project Paper:
 
