@@ -35,12 +35,16 @@ Secondly, the knowledge gained from recognizing the top 20% of the field per rac
 A third application of the results is that knowing the upper and lower bounds of the standard deviation is also helpful in planning race paces, but also in predictions for finish times according to sports broadcasters. There are races that put on a broadcast of the race and even predictions of races about who will place where. This information about the upper and lower bounds could help broadcasters to make realistic predictions about who will finish and when by making sure the paces fall in between these two bounds unless they know of people who are exceptions to those ranges. Additionally, standard deviations can help runners predict if their training paces are sound to focus on finishing a race, regardless of performance. Many ultramarathons have strict cutoff times throughout the race, and knowing if their paces fall outside the average range could help them adjust their pace as need during the race so that they meet the checkpoints under certain cutoff times.
 
 
-## Link to Video Presentation: -----
+## Link to Video Presentation
 
 
-## Link to Final Project Paper: -----
+## [Link](./14_UltraInsightAnalyzingPacesAgesandTrendsinUltramarathonFinishers_Part4.pdf) to Final Project Paper
 
 
 Note:
 The [PowerPoint PDF](./Group14_UltraInsight_Analyzing_Paces_Ages_and_Trends_in_Ultramarathon_Finishers_Part1.pdf) includes hyperlinks. Those hyperlinks are clickable if the file is downloaded, but are not clickable through Github's pdf viewer.
 
+Links to Interactive Visualizations as seen in the Final Project Paper:
+[Average Pace Per Race Distance](./clueking2.github.io/average_pace_race_distances.html)
+[Average Pace Per Race Distance Top 20%](./clueking2.github.io/average_pace_race_distance_top_20_percent.html)
+[Pace Distribution per Race Distance](./clueking2.github.io/pace_distribution_race_distance.html)
