@@ -34,7 +34,7 @@ Secondly, the knowledge gained from recognizing the top 20% of the field per rac
 A third application of the results is that knowing the upper and lower bounds of the standard deviation is also helpful in planning race paces, but also in predictions for finish times according to sports broadcasters. There are races that put on a broadcast of the race and even predictions of races about who will place where. This information about the upper and lower bounds could help broadcasters to make realistic predictions about who will finish and when by making sure the paces fall in between these two bounds unless they know of people who are exceptions to those ranges. Additionally, standard deviations can help runners predict if their training paces are sound to focus on finishing a race, regardless of performance. Many ultramarathons have strict cutoff times throughout the race, and knowing if their paces fall outside the average range could help them adjust their pace as need during the race so that they meet the checkpoints under certain cutoff times.
 
 
-## Link to Video Presentation
+## [Video Presentation](https://youtu.be/I95pT6-J3iM)
 
 
 ## [Final Project Paper](./14_UltraInsightAnalyzingPacesAgesandTrendsinUltramarathonFinishers_Part4.pdf)
